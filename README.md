@@ -73,10 +73,15 @@ A magic tee is normally characterised by two quantities:
 |    2 | H-arm     | E-arm      |                            1 dB |           1 dB |
 
 Isolation (dB)=−10log10​(PE​PH​​)
+
+
 PE=20dB
+
 PH=1dB
-Isolation=PE−PH=20-1 $$
-Isolation=19dB
+
+Isolation=PE−PH=20-1 
+
+=Isolation=19dB
 	​
 
 ## Precautions
